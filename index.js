@@ -309,7 +309,7 @@ function loadUserPreferences() {
         // Note: Since localStorage is not available in this environment,
         // we'll use a simple in-memory preference system
         window.userPreferences = {
-            lastUsedDataset: 'data3Links',
+            lastUsedDataset: 'data4Status',
             searchHistory: [],
             preferredTheme: 'default',
             accessibilityMode: false
@@ -403,3 +403,4 @@ style.textContent = `
 `;
 
 document.head.appendChild(style);
+
