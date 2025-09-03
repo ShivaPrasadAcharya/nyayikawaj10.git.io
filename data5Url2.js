@@ -1,5 +1,5 @@
 var data5Url2 = `sno,subject,description,shorturl,longurl
-01, Call Judicial Officer, Latest Update 2081, Call Officers,https://shivaprasadacharya.github.io/calljudiciary.git.io/
+01, Call Judicial Officer,Latest Update 2081,CALL,https://shivaprasadacharya.github.io/calljudiciary.git.io/
 
 `;
 
