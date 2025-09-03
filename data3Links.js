@@ -5,7 +5,7 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 `;
 // Dataset metadata
 var data3LinksInfo = {
-    name: "Notes",
+    name: "Notices",
     description: "LINKS",
     emoji: "🔗",
     columns: 5,
